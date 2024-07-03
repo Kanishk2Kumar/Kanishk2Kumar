@@ -1,10 +1,41 @@
-- 👋 Hi, I’m @Kanishk Kumar
-- 👀 I’m interested in exploit development
-- 🌱 I’m currently learning python,web pen testing
-- 💞️ I’m looking to collaborate on simple python projects
-- 📫 How to reach -> To reach me mail at kanishkkumar127@gmail.com
+<h1 align="center">
+  <a href="#">
+     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+There!+👋;+I'm+Abhinav!;" />
+  </a>
+</h1>
 
-<!---
-Kanishk2Kumar/Kanishk2Kumar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🧑‍🎓 A Second Year Undergrad, Programmer, Developer!!
+- 💻 Currently learning Node and Express JS..
+- 🚹 Pronouns: He/Him
+- 🟩 Fun fact: I come here for the green squares
+ ### Blogs
+ [The Power of Password Management and 2FA](https://secureyourlogins.blogspot.com/2024/05/enhancing-your-online-security-power-of.html)
+  ### You can reach me at 
+<p align="center">
+<a href="https://www.linkedin.com/in/abhinav-mehta-224968290/">
+<img src="www.linkedin.com/in/kanishk-kumar-95349127b" />
+<a href="https://www.instagram.com/kanishk_1604/">
+<img src="https://skillicons.dev/icons?i=instagram" />
+<a href="kanishkkumar127@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</p>
+<br>
+<h2 align="center">⚒ Languages-Frameworks-Tools ⚒</h2><br>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,html,css,js,vscode&perline=5" /><br>
+  <img src="https://skillicons.dev/icons?i=eclipse,arduino,git,github,windows,kali&perline=6" /><br>
+</p><br><br>
+<h2 align="center">⚡ Stats ⚡</h2>
+
+<p align='center'><img width="450px" style="border-style:solid" src="https://github-readme-streak-stats.herokuapp.com/?user=Kanishk2Kumar&theme=radical" alt="Kanishk's Github Stats" />
+  </p> 
+   <p align='center'>
+  <img width="450px" src="https://github-readme-stats.vercel.app/api?username=Kanishk2Kumar&count_private=true&theme=radical"/>
+</p>
+  
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/Kanishk2Kumar/count.svg" />
+</p>
+ <div align="center">
