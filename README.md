@@ -1,9 +1,10 @@
 <h1 align="center">
   <a href="#">
-     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+There!+👋;+I'm+Abhinav!;" />
+     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+There!+👋;+I'm+Kanishk!;" />
   </a>
 </h1>
 
+- I am Kanishk 
 - 🧑‍🎓 A Second Year Undergrad, Programmer, Developer!!
 - 💻 Currently learning Node and Express JS..
 - 🚹 Pronouns: He/Him
