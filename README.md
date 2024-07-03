@@ -12,8 +12,8 @@
  [The Power of Password Management and 2FA](https://secureyourlogins.blogspot.com/2024/05/enhancing-your-online-security-power-of.html)
   ### You can reach me at 
 <p align="center">
-<a href="https://www.linkedin.com/in/abhinav-mehta-224968290/">
-<img src="www.linkedin.com/in/kanishk-kumar-95349127b" />
+<a href="https://www.linkedin.com/in/kanishk-kumar-95349127b/">
+<img src="https://skillicons.dev/icons?i=linkedin" />
 <a href="https://www.instagram.com/kanishk_1604/">
 <img src="https://skillicons.dev/icons?i=instagram" />
 <a href="kanishkkumar127@gmail.com">
