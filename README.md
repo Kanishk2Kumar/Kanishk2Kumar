@@ -9,8 +9,7 @@
 - 💻 Currently learning Node and Express JS..
 - 🚹 Pronouns: He/Him
 - 🟩 Fun fact: I come here for the green squares
- ### Blogs
- [The Power of Password Management and 2FA](https://secureyourlogins.blogspot.com/2024/05/enhancing-your-online-security-power-of.html)
+
   ### You can reach me at 
 <p align="center">
 <a href="https://www.linkedin.com/in/kanishk-kumar-95349127b/">
