@@ -4,11 +4,12 @@
   </a>
 </h1>
 
-- I am Kanishk 
-- 🧑‍🎓 A Second Year Undergrad, Programmer, Developer!!
-- 💻 Currently learning Node and Express JS..
+- I am Kanishk. This is my Portfolio: https://kanishkkumar.in/
+- 🧑‍🎓 I am a **Tech Intern at Novare Talent**, where I've led web interface development and architected cloud infrastructure].
+- 💡 I also work as a **Freelancer**, I specialize in building and redesigned responsive web interfaces, along with cloud infrastructure.
+- 🎓 A Third-Year Undergrad pursuing a B.Tech in Computer Science and Engineering.
 - 🚹 Pronouns: He/Him
-- 🟩 Fun fact: I come here for the green squares
+- 🟩 Fun fact: I come here for the green squares.
 
   ### You can reach me at 
 <p align="center">
