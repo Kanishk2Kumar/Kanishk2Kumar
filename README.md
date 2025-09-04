@@ -34,9 +34,4 @@
   <img width="450px" src="https://github-readme-stats.vercel.app/api?username=Kanishk2Kumar&count_private=true&theme=radical"/>
 </p>
   
-
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Kanishk2Kumar/count.svg" />
-</p>
  <div align="center">
